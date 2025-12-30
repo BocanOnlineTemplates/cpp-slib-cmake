@@ -1,4 +1,4 @@
-project: ProjectTemplate
+project: cpp
 description: A template for C++ projects for Bocan Online.
 language: C++
 environment: CMake, Make
