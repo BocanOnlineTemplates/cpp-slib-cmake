@@ -1,10 +1,9 @@
-session_name: cpp
+session_name: cpp-slib-cmake
 windows:
   - window_name: editor-project
     shell_command_before:
-      - cd ~/Developer/BocanOnlineTemplates/cpp
+      - cd ~/Developer/BocanOnlineTemplates/cpp-slib-cmake
       - nvim
   - window_name: shell
     shell_command_before:
-      - cd ~/Developer/BocanOnlineTemplates/cpp
-
+      - cd ~/Developer/BocanOnlineTemplates/cpp-slib-cmake

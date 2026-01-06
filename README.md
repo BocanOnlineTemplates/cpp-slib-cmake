@@ -1,7 +1,8 @@
-# ProjectTemplate
+# cpp-slib-cmake
 ## The Bocan Online C++ Project Template
 
-A template for C++ projects for Bocan Online and Bocan Studio. 
+A template project using CMake which generates a static core library
+for Bocan Online C++ Projects.
 
 ### Overview
 

@@ -1,9 +1,11 @@
-//
-// ProjectTemplate
-// Bocan Online C++ Template Project
-// Module.test.cpp
-//
-
+////////////////////////////////////////////////////////////////////////////////
+// organization: Bocan Online Templates
+// author: Matthew Buchanan
+// 
+// license: The Unlicense
+// project: cpp-slib-cmake
+// file: Module.test.cpp
+////////////////////////////////////////////////////////////////////////////////
 #include <cassert>
 
 #include "Module.hpp"
